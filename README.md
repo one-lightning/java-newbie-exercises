@@ -1,3 +1,7 @@
 # java-newbie-exercises
 
-@one-thunder
+## Ex. 1
+
+## Ex. 2
+
+## Ex. 3
