@@ -4,6 +4,16 @@
  * Exercise: #20
  * Purpose: Using only 1 variable of type int output the following without using assignment operator:
  * ```
+ * ```
+ * Countdown: 10
+ * Countdown: 9
+ * Countdown: 8
+ * Countdown: 7
+ * Countdown: 6
+ * ...
+ * Countdown: -2
+
+ * ```
  *  
  */
 package chapter_1;
