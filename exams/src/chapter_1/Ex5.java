@@ -17,8 +17,8 @@ package chapter_1;
 public class Ex5 {
 
 	public static void main(String[] args) {
-		System.out.println("A \n" + "	" + "B \n" + "		" + "C \n" + "			" + "D \n" + "		" + "C \n"
-				+ "	" + "B \n" + "A");
+		System.out.println("A \n" + "\t" + "B \n" + "\t\t" + "C \n" + "\t\t\t" + "D \n" + "\t\t" + "C \n"
+				+ "\t" + "B \n" + "A");
 
 	}
 
