@@ -23,10 +23,9 @@ public class Theatre {
 
 		if (hasIrenEnjoyedTheMovie) {
 			System.out.println("Iren: Yeah I kinda liked it too! \n");
-
-			if (hasBridgetEnjoyedTheMovie) {
-				System.out.println("Bridget: OH. MY. GOOOD!");
-			}
+		}
+		if (hasBridgetEnjoyedTheMovie) {
+			System.out.println("Bridget: OH. MY. GOOOD!");
 		}
 	}
 
