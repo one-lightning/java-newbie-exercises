@@ -28,8 +28,8 @@ public class Encoding {
 			
 		}
 
-		System.out.println(input);
-		System.out.println(output);
+		System.out.println(" Input : " + input);
+		System.out.println(" Output : " + output);
 
 	}
 
